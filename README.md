@@ -40,6 +40,3 @@ Testing LangChain’s RAG capabilities
 ├── Langchain.ipynb
 └── README.md
  Contributions
-Pull requests and suggestions are welcome!
-If you'd like, I can also generate: - Badges - A logo - A more advanced README with examples and
-screenshots - A contributor guide
